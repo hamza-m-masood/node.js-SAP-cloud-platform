@@ -1,5 +1,5 @@
 ## Steps for creation of this application
-1. Creating basic Noe.js App
+1. Creating basic Node.js App
 2. Deploying the app to Cloud Foundry CLI
 3. Adding basic logging to the Node.js App
 
